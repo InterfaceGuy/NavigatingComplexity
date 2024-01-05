@@ -1,1 +1,2 @@
 # NavigatingComplexity
+![](NavigatingComplexity.png)
